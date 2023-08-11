@@ -1,0 +1,1905 @@
+2023-08-11 09:19:41.500 [ERRO] {b896e61d732f7a1752780425ca99846b} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:72
+
+2023-08-11 09:20:41.503 [ERRO] {20ba5e16812f7a1755780425afa39cff} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:72
+
+2023-08-11 09:21:59.508 [ERRO] {40b9d13f932f7a177f1a852abf506130} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:75
+
+2023-08-11 09:23:02.558 [ERRO] {24d1e6eda12f7a1730621b6115ed5574} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:75
+
+2023-08-11 09:24:08.519 [ERRO] {08187949b12f7a1792c8d40e62ce9686} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:76
+
+2023-08-11 09:25:11.538 [ERRO] {e0c0b0f5bf2f7a1779f34617dd321083} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:75
+
+2023-08-11 09:26:27.580 [ERRO] {1cc22faad12f7a171e72ea2f1c0967f0} 更新图片失败, 标识字：
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:75
+
+2023-08-11 09:27:11.223 [ERRO] {5c9075d3db2f7a17c5553b7d6ef062b8} 更新图片失败, 标识字：144
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:75
+
+2023-08-11 09:27:28.051 [ERRO] {14c27ebedf2f7a171437a82b12593b51} 更新图片失败, 标识字：144
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:75
+
+2023-08-11 09:27:29.553 [ERRO] {c8e80818e02f7a171537a82b4ce79f47} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:75
+
+2023-08-11 09:27:59.478 [ERRO] {9076af0fe72f7a175e60183d81c59abe} 更新图片失败, 标识字：144
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:75
+
+2023-08-11 09:28:32.557 [ERRO] {5cfd5ac3ee2f7a175f60183dc085f01b} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:75
+
+2023-08-11 09:29:38.566 [ERRO] {9cb7cf21fe2f7a17b62cb7453f4cfa42} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:75
+
+2023-08-11 09:30:53.575 [ERRO] {7431b9980f307a177f2ab32f5577a5c9} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:75
+
+2023-08-11 09:31:53.590 [ERRO] {48f0d8911d307a17802ab32fd9d3c8f1} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:75
+
+2023-08-11 09:32:53.598 [ERRO] {64f2a48a2b307a17812ab32fc6b8a3fc} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:75
+
+2023-08-11 09:34:05.613 [ERRO] {88570a4f3c307a172a6e855c1553d2a8} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:75
+
+2023-08-11 09:35:05.662 [ERRO] {e06b3a4a4a307a172b6e855c84985347} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:75
+
+2023-08-11 09:36:05.632 [ERRO] {9ce6c24058307a172c6e855c6ce8e1da} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:75
+
+2023-08-11 09:37:05.674 [ERRO] {d4fa813b66307a172d6e855cdda8051a} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:75
+
+2023-08-11 09:38:05.711 [ERRO] {0438073674307a172e6e855cd0956778} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:75
+
+2023-08-11 09:39:05.669 [ERRO] {5cbdc12b82307a172f6e855c4df2f0f4} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:75
+
+2023-08-11 09:40:05.709 [ERRO] {dca16d2690307a17306e855c4816fc1a} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:75
+
+2023-08-11 09:41:05.687 [ERRO] {88716f1d9e307a17316e855c9103fbad} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:75
+
+2023-08-11 09:42:05.718 [ERRO] {30818c17ac307a17326e855c0b06d29c} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:75
+
+2023-08-11 09:43:14.716 [ERRO] {78952828bc307a1762f13306365da365} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:75
+
+2023-08-11 09:44:17.717 [ERRO] {949746d3ca307a17ddb38713ab330365} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:75
+
+2023-08-11 09:45:17.729 [ERRO] {389a43ccd8307a17deb38713bc6d9bdb} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:75
+
+2023-08-11 09:46:23.747 [ERRO] {f442482be8307a1749f08d26a461947c} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:75
+
+2023-08-11 09:47:38.761 [ERRO] {087376a2f9307a17cb358b5381155326} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:75
+
+2023-08-11 09:48:44.765 [ERRO] {18fc9c0009317a173f60583f04aef257} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:75
+
+2023-08-11 09:49:47.789 [ERRO] {18a81cad17317a17a9355f2d4dacf8cc} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:75
+
+2023-08-11 09:50:53.840 [ERRO] {9068050e27317a171a166c20ba2f3c13} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:75
+
+2023-08-11 09:51:53.811 [ERRO] {4849a40435317a171b166c20b943567c} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:75
+
+2023-08-11 09:52:53.854 [ERRO] {d0e779ff42317a171c166c2020cb738d} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:75
+
+2023-08-11 09:53:53.865 [ERRO] {d0e95cf850317a171d166c20dad54d85} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:75
+
+2023-08-11 09:54:53.872 [ERRO] {a4901cf15e317a171e166c20a6873366} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:75
+
+2023-08-11 09:55:53.881 [ERRO] {44dfe0e96c317a171f166c20c3f0ff99} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:75
+
+2023-08-11 09:56:53.854 [ERRO] {a84585e07a317a1720166c2080f44a38} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:75
+
+2023-08-11 09:58:05.864 [ERRO] {cc25b1a48b317a17ebc9e56e219dee36} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:75
+
+2023-08-11 09:59:05.874 [ERRO] {00fd8f9d99317a17ecc9e56e71345a8b} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:75
+
+2023-08-11 10:00:05.883 [ERRO] {8c626096a7317a17edc9e56eca7b4491} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:75
+
+2023-08-11 10:01:05.889 [ERRO] {60c4058fb5317a17eec9e56e3af35a4f} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:75
+
+2023-08-11 10:02:08.904 [ERRO] {080a083bc4317a17449e153f1f193f78} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:78
+
+2023-08-11 10:03:14.916 [ERRO] {8455aa99d3317a17cab2497c50e164ff} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:77
+
+2023-08-11 10:04:20.931 [ERRO] {287c71f8e2317a17e200625a30e4617c} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:77
+
+2023-08-11 10:05:23.965 [ERRO] {64f389a5f1317a17afe3281e4d551a08} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:77
+
+2023-08-11 10:06:26.988 [ERRO] {70c1035200327a17ca2d70354cd24dec} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:77
+
+2023-08-11 10:07:29.972 [ERRO] {54bf2cfc0e327a170e66116da45dbb44} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:77
+
+2023-08-11 10:08:36.037 [ERRO] {7cf9ef5d1e327a17ac001458f6f6f1b1} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:77
+
+2023-08-11 10:09:35.990 [ERRO] {3cc966532c327a17ad001458fc0e1e03} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:77
+
+2023-08-11 10:10:39.004 [ERRO] {c4335aff3a327a17a69cd51efc91016c} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:77
+
+2023-08-11 10:11:42.013 [ERRO] {24dcf6aa49327a17666c59265315c3f7} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:77
+
+2023-08-11 10:12:57.025 [ERRO] {50460a225b327a174b0eca50103ca45b} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:77
+
+2023-08-11 10:13:57.038 [ERRO] {a8d7141b69327a174c0eca508fa1021e} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:77
+
+2023-08-11 10:14:57.049 [ERRO] {54430a1477327a174d0eca50ba0bd512} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:77
+
+2023-08-11 10:16:03.072 [ERRO] {94f24c7386327a17ab55a86ca33cb989} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:77
+
+2023-08-11 10:17:03.083 [ERRO] {2475386c94327a17ac55a86c84461d3c} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:77
+
+2023-08-11 10:18:03.100 [ERRO] {fc127565a2327a17ad55a86cf77dee7c} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:77
+
+2023-08-11 10:19:03.107 [ERRO] {8c613f5eb0327a17ae55a86c7da4dd57} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:77
+
+2023-08-11 10:20:03.156 [ERRO] {d86f6859be327a17af55a86c24c4310f} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:77
+
+2023-08-11 10:21:03.128 [ERRO] {70860a50cc327a17b055a86cbec7624c} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:77
+
+2023-08-11 10:22:03.143 [ERRO] {085f3849da327a17b155a86c910107e4} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:77
+
+2023-08-11 10:23:03.189 [ERRO] {54bc3f44e8327a17b255a86ce289f6a8} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:77
+
+2023-08-11 10:24:03.220 [ERRO] {4467563ef6327a17b355a86c647f8410} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:77
+
+2023-08-11 10:25:03.241 [ERRO] {ac02e73704337a17b455a86c5dcf7bce} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:77
+
+2023-08-11 10:26:03.184 [ERRO] {746fc82c12337a17b555a86c5732db09} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:77
+
+2023-08-11 10:27:03.243 [ERRO] {c464922820337a17b655a86c78e3f8ff} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:77
+
+2023-08-11 10:28:09.215 [ERRO] {8040c6842f337a1701eda168d16e308d} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:77
+
+2023-08-11 10:29:15.256 [ERRO] {88a92be53e337a1700450760cb6f4928} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:77
+
+2023-08-11 10:30:18.239 [ERRO] {403c3c8f4d337a17a35c2f12721da7f3} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:77
+
+2023-08-11 10:31:18.248 [ERRO] {b8b610885b337a17a45c2f12a00392a8} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:77
+
+2023-08-11 10:32:21.258 [ERRO] {10bbc2336a337a17e1db3942fe9db7a2} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:77
+
+2023-08-11 10:33:30.345 [ERRO] {ec2f9c497a337a177013f73cc2a93b99} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:77
+
+2023-08-11 10:34:30.285 [ERRO] {e05c5a3e88337a177113f73caf541349} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:77
+
+2023-08-11 10:35:30.296 [ERRO] {74eb353796337a177213f73ce91565e7} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:77
+
+2023-08-11 10:36:30.306 [ERRO] {40672d30a4337a177313f73c479fd035} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:77
+
+2023-08-11 10:37:30.320 [ERRO] {a4013229b2337a177413f73ca3e66090} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:77
+
+2023-08-11 10:38:30.354 [ERRO] {f4f18923c0337a177513f73c0f4a243f} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:77
+
+2023-08-11 10:39:30.334 [ERRO] {b8feae1ace337a177613f73cddea248a} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:77
+
+2023-08-11 10:40:30.344 [ERRO] {b8868413dc337a177713f73cf33d482d} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:77
+
+2023-08-11 10:41:30.361 [ERRO] {b017cc0cea337a177813f73cbc26f5da} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:77
+
+2023-08-11 10:42:30.406 [ERRO] {1ce4c107f8337a177913f73cc28563f4} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:77
+
+2023-08-11 10:43:30.428 [ERRO] {5c54640106347a177a13f73c9c24d0d4} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:77
+
+2023-08-11 10:44:30.393 [ERRO] {886b90f713347a177b13f73cf8737608} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:77
+
+2023-08-11 10:45:30.451 [ERRO] {14f64cf321347a177c13f73cc862fc5f} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:77
+
+2023-08-11 10:46:30.469 [ERRO] {5c17aaec2f347a177d13f73c45282b86} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:77
+
+2023-08-11 10:47:30.451 [ERRO] {d04ce2e33d347a177e13f73c54a85325} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:77
+
+2023-08-11 10:48:30.443 [ERRO] {a0f0a9db4b347a177f13f73cf7244b20} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:77
+
+2023-08-11 10:49:30.453 [ERRO] {9c7685d459347a178013f73ce175e11a} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:77
+
+2023-08-11 10:50:30.488 [ERRO] {44d6e8ce67347a178113f73c65daed74} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:77
+
+2023-08-11 10:51:36.539 [ERRO] {ace3df2f77347a17eaf8f97c3ea21daa} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:84
+
+2023-08-11 10:52:48.527 [ERRO] {7009a5f287347a17f5f81244f1aa0b9b} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:88
+
+2023-08-11 10:53:48.540 [ERRO] {e046b4eb95347a17f6f81244a3af046a} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:88
+
+2023-08-11 10:54:51.528 [ERRO] {24a91d96a4347a172caa9a1d2555d987} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:88
+
+2023-08-11 10:55:51.572 [ERRO] {c0170091b2347a172daa9a1d55ef6e78} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:88
+
+2023-08-11 10:56:51.551 [ERRO] {1c830688c0347a172eaa9a1d426eff29} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:88
+
+2023-08-11 10:57:51.607 [ERRO] {604baa83ce347a172faa9a1dfc60d1e6} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:88
+
+2023-08-11 10:58:51.585 [ERRO] {1890947adc347a1730aa9a1d3770a681} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:88
+
+2023-08-11 10:59:51.662 [ERRO] {70df7877ea347a1731aa9a1d5dfb6096} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:88
+
+2023-08-11 11:00:51.602 [ERRO] {a0db306cf8347a1732aa9a1d44e76280} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:88
+
+2023-08-11 11:01:51.615 [ERRO] {505e426506357a1733aa9a1da62e7ef2} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:88
+
+2023-08-11 11:02:54.630 [ERRO] {08ee3a1115357a1734b5af3754768b39} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:93
+
+2023-08-11 11:03:57.739 [ERRO] {18e6ccc223357a17f5ae637b84c3f1ae} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:93
+
+2023-08-11 11:04:57.647 [ERRO] {2c7498b531357a17f6ae637b9b22526f} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:93
+
+2023-08-11 11:05:57.666 [ERRO] {b4eb09af3f357a17f7ae637bec7226cc} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:93
+
+2023-08-11 11:06:57.675 [ERRO] {d4c9cda74d357a17f8ae637b9d6edef2} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:93
+
+2023-08-11 11:07:57.683 [ERRO] {78be92a05b357a17f9ae637b3215a389} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:93
+
+2023-08-11 11:08:57.692 [ERRO] {80d5629969357a17faae637bd2d7368c} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:93
+
+2023-08-11 11:09:57.728 [ERRO] {f8c4d99377357a17fbae637b95c2b902} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:93
+
+2023-08-11 11:10:57.709 [ERRO] {b02ef48a85357a17fcae637b3a4ed371} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:93
+
+2023-08-11 11:11:57.721 [ERRO] {f06af88393357a17fdae637b5d6051e3} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:93
+
+2023-08-11 11:12:57.728 [ERRO] {f814a47ca1357a17feae637b19d5ea2a} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:93
+
+2023-08-11 11:13:57.780 [ERRO] {54d60978af357a17ffae637bb3f72387} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:93
+
+2023-08-11 11:14:57.755 [ERRO] {d07ecc6ebd357a1700af637bf22683eb} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:93
+
+2023-08-11 11:16:00.808 [ERRO] {8cc61a1dcc357a17fc4a2846cee6ad28} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:93
+
+2023-08-11 11:17:03.786 [ERRO] {409be3c6da357a172906845d9b61c9da} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:93
+
+2023-08-11 11:18:03.786 [ERRO] {d09818bfe8357a172a06845d59f3e49e} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:93
+
+2023-08-11 11:19:03.791 [ERRO] {dcd8b6b7f6357a172b06845db04c621d} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:93
+
+2023-08-11 11:20:06.805 [ERRO] {e4e5aa6305367a17a9d57f465f9e82e1} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:93
+
+2023-08-11 11:21:09.820 [ERRO] {dc50a60f14367a17a42db14b45194a2f} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:93
+
+2023-08-11 11:22:15.840 [ERRO] {b0f8b66e23367a17bdf6bc15b6adac8a} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 11:23:15.853 [ERRO] {64e9c96731367a17bef6bc15d3a92039} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 11:24:15.866 [ERRO] {a018da603f367a17bff6bc15adac7a96} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 11:25:15.903 [ERRO] {280f4e5b4d367a17c0f6bc15af7e4598} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 11:26:15.892 [ERRO] {605df4525b367a17c1f6bc15795aa579} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 11:27:18.925 [ERRO] {c87503006a367a174d776879a18143f4} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 11:28:24.912 [ERRO] {10fb235d79367a17c2ca787a0f82ebcc} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 11:29:24.958 [ERRO] {a8fe295887367a17c3ca787a82f59895} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 11:30:28.065 [ERRO] {74df9e0996367a170632d90340b8d9e9} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 11:31:27.954 [ERRO] {ac3642fba3367a170732d903152813e0} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 11:32:34.966 [ERRO] {38be7f95b3367a176b67d0170cd986c3} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 11:33:35.019 [ERRO] {e875f590c1367a176c67d0175fbfe51d} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 11:34:35.003 [ERRO] {205d4488cf367a176d67d017f50e7260} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 11:35:35.010 [ERRO] {744cfa80dd367a176e67d01753d65eef} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 11:36:35.078 [ERRO] {20c2507deb367a176f67d017c4e4771a} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 11:37:35.088 [ERRO] {9c3f2376f9367a177067d017a952b343} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 11:38:35.062 [ERRO] {a4f7e06c07377a177167d01712044862} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 11:39:35.075 [ERRO] {ec50f26515377a177267d01714b28e69} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 11:40:35.093 [ERRO] {6c774e5f23377a177367d01747aec592} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 11:41:35.108 [ERRO] {dcf5805831377a177467d017f7e730c7} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 11:42:35.129 [ERRO] {3ca4fc513f377a177567d017e42971f0} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 11:43:35.133 [ERRO] {00e78f4a4d377a177667d0179740e25b} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 11:44:35.144 [ERRO] {5c677a435b377a177767d0174a926261} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 13:33:18.567 [ERRO] {04f2cd1d4a3d7a177867d017e61c081b} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 13:33:18.579 [ERRO] {c4367d1e4a3d7a177967d0174efbeb48} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 13:34:46.172 [ERRO] {e48378835e3d7a177a67d017b4f1c2e3} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 13:34:46.368 [ERRO] {706c258f5e3d7a177b67d017e054c323} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 13:34:56.185 [ERRO] {cc0d4bd8603d7a177c67d017d63a04e7} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 13:35:56.166 [ERRO] {1cda6fcf6e3d7a177d67d0170a641f02} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 13:36:56.177 [ERRO] {f0e155c87c3d7a177e67d0174b3bdbc6} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 13:37:56.109 [ERRO] {309592bc8a3d7a177f67d01713dad926} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 13:38:56.166 [ERRO] {4c743db8983d7a178067d017a35f9e86} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 13:39:56.164 [ERRO] {f86062b0a63d7a178167d0172105b65c} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 13:40:56.215 [ERRO] {ac2dbaabb43d7a178267d017009caa8d} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 13:41:56.218 [ERRO] {9cde26a4c23d7a178367d0178523fb93} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 13:42:59.133 [ERRO] {b43a304ad13d7a1756ccc6629fff42c3} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 13:43:08.002 [ERRO] {d8a0d45ad33d7a1757ccc662b4d89a9c} 服务未注册 0x33
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 13:43:59.135 [ERRO] {206ca042df3d7a1758ccc662081a9303} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 13:44:59.188 [ERRO] {dcd2053eed3d7a1759ccc6628d2a60bc} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 13:45:59.151 [ERRO] {ec622034fb3d7a175accc66295313509} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 13:46:59.191 [ERRO] {a4c3cc2e093e7a175bccc662ff95da27} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 13:47:59.177 [ERRO] {08623826173e7a175cccc66201d90288} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 13:48:59.245 [ERRO] {60b38e22253e7a175dccc66229e2f494} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 13:49:59.181 [ERRO] {34f10617333e7a175eccc662c402cc63} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 13:50:59.194 [ERRO] {c0601810413e7a175fccc6621c7d975a} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 13:51:59.200 [ERRO] {98efb4084f3e7a1760ccc662eadbdf03} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 13:52:59.210 [ERRO] {5c0197015d3e7a1761ccc6629362e491} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 13:53:59.290 [ERRO] {449f9cfe6a3e7a1762ccc662c9723400} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 13:54:59.253 [ERRO] {7ca8b1f4783e7a1763ccc662d96ca496} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 13:55:59.243 [ERRO] {d88860ec863e7a1764ccc6620c49ff72} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 13:56:59.248 [ERRO] {3073f4e4943e7a1765ccc662e407d37e} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 13:57:59.254 [ERRO] {fcce9ddda23e7a1766ccc662c7a5d876} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 13:58:59.264 [ERRO] {949173d6b03e7a1767ccc662c55411be} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 13:59:59.277 [ERRO] {e8ea8ccfbe3e7a1768ccc6621db9eec1} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 14:00:59.287 [ERRO] {887664c8cc3e7a1769ccc66204d6ed05} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 14:01:59.334 [ERRO] {28e37bc3da3e7a176accc66227bccef1} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 14:02:59.299 [ERRO] {28cda6b9e83e7a176bccc66264acfc4a} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 14:03:59.303 [ERRO] {2c582fb2f63e7a176cccc662e9420d4d} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 14:04:59.370 [ERRO] {101f70ae043f7a176dccc66271390ae5} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 14:05:59.334 [ERRO] {24f991a4123f7a176eccc662dd687242} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 14:06:59.377 [ERRO] {08d8709f203f7a176fccc66227fac3cd} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 14:07:59.410 [ERRO] {d80bab992e3f7a1770ccc66224182498} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 14:08:59.418 [ERRO] {380370923c3f7a1771ccc6625f802553} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 14:09:59.426 [ERRO] {1493348b4a3f7a1772ccc662090ad5a3} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 14:10:59.409 [ERRO] {e4457082583f7a1773ccc6624b00beee} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 14:11:59.390 [ERRO] {34319479663f7a1774ccc662f99d21df} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 14:12:59.449 [ERRO] {50e76275743f7a1775ccc662c74646ec} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 14:13:59.462 [ERRO] {2829746e823f7a1776ccc662830db19e} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 14:14:59.470 [ERRO] {d4e62167903f7a1777ccc6626210c7b9} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 14:15:59.479 [ERRO] {a89b00609e3f7a1778ccc66232f93aae} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 14:16:59.486 [ERRO] {14c0b958ac3f7a1779ccc662ee3a9aa5} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 14:17:59.495 [ERRO] {549c8251ba3f7a177accc6621666b408} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 14:18:59.503 [ERRO] {547e494ac83f7a177bccc6627a37d369} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 14:19:59.512 [ERRO] {4c9b1e43d63f7a177cccc662f64909f6} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 14:20:59.522 [ERRO] {446ef73be43f7a177dccc6628b072d4e} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 14:21:59.531 [ERRO] {405ac234f23f7a177eccc66283414cab} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 14:22:59.515 [ERRO] {54a21f2c00407a177fccc6621b4d36cd} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 14:23:59.546 [ERRO] {04e146260e407a1780ccc662d89a655c} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 14:24:59.535 [ERRO] {d028d81d1c407a1781ccc662205c5adf} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 14:25:59.516 [ERRO] {9c8905152a407a1782ccc662c2bd1e0c} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 14:26:59.523 [ERRO] {b0b1bd0d38407a1783ccc6622ca6114f} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 14:27:59.578 [ERRO] {a463400946407a1784ccc66215a7bbab} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 14:28:59.532 [ERRO] {c429cffe53407a1785ccc6624e1001ba} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 14:29:59.578 [ERRO] {7ccdd8f961407a1786ccc662e15a27e4} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 14:30:59.605 [ERRO] {9c0cbdf36f407a1787ccc662e1a23a03} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 14:31:59.614 [ERRO] {248687ec7d407a1788ccc662de9fbc00} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 14:32:59.572 [ERRO] {00e04de28b407a1789ccc662c660035f} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 14:33:59.631 [ERRO] {b8fd13de99407a178accc6627a33ebe3} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 14:34:59.641 [ERRO] {947bf4d6a7407a178bccc662c72161f2} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 14:35:59.649 [ERRO] {6c7eb8cfb5407a178cccc662ba1b5fb4} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 14:36:59.597 [ERRO] {5c35ebc4c3407a178dccc662dbb9fdad} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 14:37:59.638 [ERRO] {ccdca2bfd1407a178eccc662a3ae5f8c} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 14:38:59.674 [ERRO] {d0360abadf407a178fccc662427cad72} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 14:39:59.683 [ERRO] {ac7fdeb2ed407a1790ccc66240e898f0} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 14:40:59.691 [ERRO] {986ea2abfb407a1791ccc66267447e79} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 14:41:59.700 [ERRO] {04fc6fa409417a1792ccc662f6229611} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 14:42:59.686 [ERRO] {64e5e99b17417a1793ccc662573541b6} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 14:43:59.717 [ERRO] {d80a029625417a1794ccc6621f6dfda3} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 14:44:59.725 [ERRO] {24ccca8e33417a1795ccc662edc55175} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 14:45:59.733 [ERRO] {3ce0888741417a1796ccc66299bd4366} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 14:46:59.742 [ERRO] {880552804f417a1797ccc66238c51477} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 14:47:59.751 [ERRO] {28b72b795d417a1798ccc66252dfc149} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 14:48:59.760 [ERRO] {4802fb716b417a1799ccc662acb2341d} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 14:49:59.768 [ERRO] {e841b56a79417a179accc6628a5d262b} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 14:50:59.777 [ERRO] {0cca896387417a179bccc66294d9b694} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 14:51:59.785 [ERRO] {2ce64b5c95417a179cccc66272f01ac1} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 14:52:59.723 [ERRO] {10efe350a3417a179dccc6628b1cf623} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 14:53:59.801 [ERRO] {e889ca4db1417a179eccc662a5ed6b0e} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 14:54:59.811 [ERRO] {f0e8a746bf417a179fccc6623704549b} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 14:55:59.736 [ERRO] {9496813acd417a17a0ccc662f9abbe2e} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 14:56:59.791 [ERRO] {30470836db417a17a1ccc6621091e771} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 14:57:59.759 [ERRO] {9cc36b2ce9417a17a2ccc662f61fff0d} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 14:58:59.765 [ERRO] {f03b0725f7417a17a3ccc662697e002b} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 14:59:59.828 [ERRO] {60a9152105427a17a4ccc6628879d191} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 15:00:59.780 [ERRO] {04fb851613427a17a5ccc662391732db} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 15:01:59.787 [ERRO] {2444340f21427a17a6ccc66280626eb7} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 15:02:59.796 [ERRO] {dc19ff072f427a17a7ccc66276d99af1} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 15:03:59.803 [ERRO] {4070bb003d427a17a8ccc6625e4ea8f5} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 15:04:59.861 [ERRO] {6cf56efc4a427a17a9ccc66256320d8c} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 15:05:59.826 [ERRO] {e848a5f258427a17aaccc662c1e75308} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 15:06:59.893 [ERRO] {10bdeaee66427a17abccc6620e964ede} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 15:07:59.850 [ERRO] {948ea5e474427a17acccc6622c21e224} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 15:08:59.856 [ERRO] {b0a340dd82427a17adccc662d906dda1} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 15:09:59.862 [ERRO] {f0aaedd590427a17aeccc66290f25ef8} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 15:10:59.920 [ERRO] {182da3d19e427a17afccc662b6447b1e} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 15:11:59.880 [ERRO] {6c1f90c7ac427a17b0ccc662b57eb05b} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 15:12:59.944 [ERRO] {cc209dc3ba427a17b1ccc662b6b9e71b} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 15:13:59.925 [ERRO] {64bbbfbac8427a17b2ccc6625ecac448} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 15:14:59.984 [ERRO] {90dc8bb6d6427a17b3ccc66284e21c03} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 15:15:59.992 [ERRO] {54d34cafe4427a17b4ccc66242e2207e} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 15:16:59.999 [ERRO] {00eb04a8f2427a17b5ccc662ff4de0d4} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 15:18:00.008 [ERRO] {38dddda000437a17b6ccc66252e66c0e} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 15:19:00.017 [ERRO] {3cb6a4990e437a17b7ccc6623d99d6d6} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 15:20:00.010 [ERRO] {940d7c911c437a17b8ccc6627a6e912b} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 15:21:00.012 [ERRO] {481aec892a437a17b9ccc662a5b9827f} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 15:22:00.042 [ERRO] {143ff88338437a17baccc662e67fb757} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 15:22:59.991 [ERRO] {dc923d7946437a17bbccc662605900a8} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 15:24:00.059 [ERRO] {686f937554437a17bcccc66204e6b148} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 15:25:00.068 [ERRO] {2853616e62437a17bdccc662f0e9470a} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 15:26:00.056 [ERRO] {147ff36570437a17beccc6627af044aa} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 15:27:00.033 [ERRO] {1c5ac05c7e437a17bfccc6625f58b948} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 15:28:00.094 [ERRO] {28afb9588c437a17c0ccc66232ff3cd1} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 15:29:00.048 [ERRO] {3c18434e9a437a17c1ccc662854aaa38} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 15:30:00.052 [ERRO] {fc5acb46a8437a17c2ccc6622aab49d7} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 15:31:00.068 [ERRO] {08770540b6437a17c3ccc6620ed17b2f} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 15:32:00.072 [ERRO] {f0359438c4437a17c4ccc6622202a19c} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 15:33:00.133 [ERRO] {58ac7e34d2437a17c5ccc66277bff02e} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 15:34:00.091 [ERRO] {d8da442ae0437a17c6ccc6622c6e82d6} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 15:35:00.143 [ERRO] {d0d7a025ee437a17c7ccc662d50915be} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 15:36:00.105 [ERRO] {94a79f1bfc437a17c8ccc6628c744461} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 15:37:00.133 [ERRO] {64268f150a447a17c9ccc6622022ce90} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 15:38:00.179 [ERRO] {e09da11018447a17caccc6626dd8a304} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 15:39:00.188 [ERRO] {30fe670926447a17cbccc662d154d836} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 15:40:00.195 [ERRO] {4c76180234447a17ccccc6627e91c842} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 15:41:00.206 [ERRO] {185d13fb41447a17cdccc662ecebbd50} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 15:42:00.215 [ERRO] {946cd6f34f447a17ceccc6622865b304} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 15:43:00.222 [ERRO] {908795ec5d447a17cfccc662e00afe7c} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 15:44:00.230 [ERRO] {746e55e56b447a17d0ccc6629c2c851d} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 15:45:00.285 [ERRO] {00aedfe079447a17d1ccc662fe549887} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 15:46:00.349 [ERRO] {cc36f9dc87447a17d2ccc662f6b6d939} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 15:47:00.359 [ERRO] {9c53ddd595447a17d3ccc6620339be98} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 15:48:00.267 [ERRO] {cc549cc8a3447a17d4ccc66213fd78e9} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 15:49:00.274 [ERRO] {ac1757c1b1447a17d5ccc662dce3df82} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 15:56:49.348 [ERRO] {08c44af81e457a17d6ccc6621debf96e} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 15:57:49.351 [ERRO] {ec59c0f02c457a17d7ccc662aaa23681} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 15:58:49.359 [ERRO] {ec3484e93a457a17d8ccc6626eadc13d} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 15:59:49.363 [ERRO] {4c8c07e248457a17d9ccc66237bf06f0} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 16:00:49.370 [ERRO] {487fbcda56457a17daccc6628ccdc84b} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 16:01:49.374 [ERRO] {246341d364457a17dbccc662b4f96f3e} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 16:02:49.382 [ERRO] {689906cc72457a17dcccc6625791c12d} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 16:03:49.401 [ERRO] {1c7b73c580457a17ddccc6626834dc4e} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 16:04:49.413 [ERRO] {0cda72be8e457a17deccc662e2ac8917} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 16:05:49.412 [ERRO] {7469a7b69c457a17dfccc662476b788c} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 16:06:49.426 [ERRO] {2842beafaa457a17e0ccc66277420d1f} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 16:07:49.439 [ERRO] {88afcba8b8457a17e1ccc662be921110} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 16:08:49.441 [ERRO] {b8e72fa1c6457a17e2ccc6629b47b71f} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 16:09:49.470 [ERRO] {7ce92f9bd4457a17e3ccc662d9398db7} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 16:10:49.461 [ERRO] {08daf392e2457a17e4ccc66232f5045a} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 16:11:49.480 [ERRO] {f04b5b8cf0457a17e5ccc662f5815d55} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 16:12:49.508 [ERRO] {ac695186fe457a17e6ccc662e53aaad1} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 16:13:49.496 [ERRO] {a08dd97d0c467a17e7ccc662c5940dc7} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 16:14:49.496 [ERRO] {fc411d761a467a17e8ccc662229a9d6f} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 16:15:49.513 [ERRO] {04b9736f28467a17e9ccc662d46c2606} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 16:16:49.517 [ERRO] {7855fd6736467a17eaccc6627d6f3a23} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 16:17:49.532 [ERRO] {f4e4176144467a17ebccc662fb57e61e} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 16:18:49.539 [ERRO] {20f2d75952467a17ecccc66237da6c50} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 16:19:49.551 [ERRO] {dccfcd5260467a17edccc662edd5488b} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 16:20:49.559 [ERRO] {7489984b6e467a17eeccc66232894f60} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 16:21:49.562 [ERRO] {10ac05447c467a17efccc6627a69eaee} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 16:22:49.579 [ERRO] {48ca5c3d8a467a17f0ccc662cfeb13a6} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 16:23:49.592 [ERRO] {602e613698467a17f2ccc6621d6c4066} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 16:24:49.595 [ERRO] {10ced32ea6467a17f3ccc6627e7a9fe3} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 16:25:49.607 [ERRO] {7c81d527b4467a17f4ccc6628be05483} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 16:26:49.614 [ERRO] {8cac8e20c2467a17f5ccc6621b9adf3e} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 16:27:49.625 [ERRO] {a4287619d0467a17f6ccc662d332b29f} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 16:28:49.634 [ERRO] {78044212de467a17f7ccc6621a9b564c} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 16:29:49.642 [ERRO] {486c0d0bec467a17f8ccc6626b8eee32} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 16:30:49.650 [ERRO] {0c96d203fa467a17f9ccc66298c913c8} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 16:31:49.664 [ERRO] {142aeefc07477a17faccc6626d98c346} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 16:32:49.676 [ERRO] {e4f4e7f515477a17fbccc662e4662eb9} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 16:33:49.688 [ERRO] {00d7e2ee23477a17fcccc662efbf08e2} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 16:34:49.699 [ERRO] {e49ed5e731477a17fdccc6623321874e} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 16:35:49.703 [ERRO] {3c6c59e03f477a17feccc66227782985} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 16:36:49.712 [ERRO] {509925d94d477a17ffccc66240d29b2a} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 16:37:49.729 [ERRO] {ecdc7ad25b477a1700cdc6627770f542} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 16:38:49.743 [ERRO] {d4ac98cb69477a1701cdc662ce82744e} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 16:39:49.763 [ERRO] {f09702c577477a1702cdc6625fe93c5c} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 16:40:49.778 [ERRO] {fcfc34be85477a1703cdc6623eb8a489} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 16:41:49.784 [ERRO] {74e2dab693477a1704cdc662ab7340bb} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 16:42:49.794 [ERRO] {3871bdafa1477a1705cdc6620bc9ecb4} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 16:43:49.803 [ERRO] {c45889a8af477a1706cdc66274517e90} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 16:44:49.815 [ERRO] {c47f83a1bd477a1707cdc662d7ce85c1} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 16:45:49.824 [ERRO] {d016529acb477a1708cdc6621e8e7796} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 16:46:49.831 [ERRO] {241b1193d9477a1709cdc66240b7d7fa} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 16:47:49.839 [ERRO] {60c9c58be7477a170acdc66282211b4e} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 16:48:49.843 [ERRO] {546d5484f5477a170bcdc6626d373bbd} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 16:49:49.863 [ERRO] {c051cf7d03487a170ccdc66223d5eac6} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 16:50:49.874 [ERRO] {fc8eb37611487a170dcdc66229e88749} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 16:51:49.891 [ERRO] {081a01701f487a170ecdc662d3e3abf0} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 16:52:49.896 [ERRO] {34629a682d487a170fcdc6625d6a4a32} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 16:53:49.917 [ERRO] {f40719623b487a1710cdc662bdc76af7} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 16:54:49.913 [ERRO] {7c592a5a49487a1711cdc662e9f8ef36} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 16:55:49.921 [ERRO] {7040e45257487a1712cdc6625202b211} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 16:56:49.933 [ERRO] {9411e34b65487a1713cdc662d2be19b6} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 16:57:49.945 [ERRO] {ccb2ee4473487a1714cdc662175b4ac2} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 16:58:49.948 [ERRO] {c002593d81487a1715cdc662fca391c5} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 16:59:49.968 [ERRO] {48eed8368f487a1716cdc662dbfdf6f6} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 17:00:50.000 [ERRO] {183104319d487a1717cdc662d71b8dea} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 17:01:49.983 [ERRO] {282b4a28ab487a1718cdc66297869567} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 17:02:49.992 [ERRO] {cc291e21b9487a1719cdc66285a14d94} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 17:03:50.006 [ERRO] {4cdd241ac7487a171acdc6626d250a24} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 17:04:50.015 [ERRO] {182d0213d5487a171bcdc6623666e8e1} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 17:05:50.027 [ERRO] {8c5f090ce3487a171ccdc6622db5770d} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 17:06:50.032 [ERRO] {24679504f1487a171dcdc662363b3cfe} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 17:07:50.046 [ERRO] {144cb9fdfe487a171ecdc662f6fd428c} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 17:08:50.059 [ERRO] {8c87bdf60c497a171fcdc6625388e2b3} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 17:09:50.068 [ERRO] {eccd92ef1a497a1720cdc6625647afdd} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 17:10:50.090 [ERRO] {44a92fe928497a1721cdc6622702cc3e} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 17:11:50.082 [ERRO] {b8caf8e036497a1722cdc662abb2aa05} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 17:12:50.094 [ERRO] {f0e0fdd944497a1723cdc662123c886d} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 17:13:50.107 [ERRO] {5cb506d352497a1724cdc6620fc9efd0} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 17:14:50.119 [ERRO] {14d4fbcb60497a1725cdc662624f4726} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 17:15:50.119 [ERRO] {0c5743c46e497a1726cdc662bf8ed23e} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 17:16:50.146 [ERRO] {04102bbe7c497a1727cdc662d0ac86be} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 17:17:50.142 [ERRO] {2c203db68a497a1728cdc66266387412} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 17:18:50.174 [ERRO] {106e67b098497a1729cdc662ed72fee8} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 17:19:50.172 [ERRO] {4cb592a8a6497a172acdc66244a7e0c8} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 17:20:50.182 [ERRO] {a0f475a1b4497a172bcdc662f15e7b38} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 17:21:50.193 [ERRO] {98b25e9ac2497a172ccdc662faef341e} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 17:22:50.211 [ERRO] {a4fcba93d0497a172dcdc662ec67694c} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 17:23:50.216 [ERRO] {d46a488cde497a172ecdc6628a4f52b2} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 17:24:50.223 [ERRO] {e01b0285ec497a172fcdc662a8ea8b24} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 17:25:50.234 [ERRO] {5cb9f07dfa497a1730cdc66227ea8a92} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 17:26:50.245 [ERRO] {b40ce476084a7a1731cdc662979b9968} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 17:27:50.253 [ERRO] {446ba36f164a7a1732cdc662e06dd7d2} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 17:28:50.266 [ERRO] {d43ab068244a7a1733cdc662f7e57037} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 17:29:50.285 [ERRO] {20291462324a7a1734cdc6624bba770a} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 17:30:50.293 [ERRO] {2874d35a404a7a1735cdc6620e724465} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 17:31:50.297 [ERRO] {b8c649534e4a7a1736cdc662ca2ea5dd} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
+2023-08-11 17:32:50.313 [ERRO] {5817934c5c4a7a1737cdc662ec1a3e9c} 服务未注册 0x77
+Stack:
+1.  main.main.func2
+    D:/project/vgdw200/main.go:91
+
