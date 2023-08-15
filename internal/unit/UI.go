@@ -1,51 +1,60 @@
 package unit
 
 import (
-	"encoding/json"
-	"errors"
-	"fmt"
+	"github.com/gogf/gf/v2/net/gtcp"
 	"github.com/oldme-git/vgdw200/internal/message"
+	"github.com/oldme-git/vgdw200/internal/tcp"
 )
 
 type ShowMsg struct {
 }
 
-func (s ShowMsg) Sender(data []byte) []byte {
-	return message.New().Cmd(0x61).Data(data).Get()
+func (s ShowMsg) Sender(conn *gtcp.Conn, data []byte) error {
+	return nil
 }
 
-func (s ShowMsg) Recver(in *message.VgDw200In) ([]byte, error) {
-	j, _ := json.Marshal(map[string]string{
-		"ack": "ok",
-		"msg": "I'm Ok, What about you?",
-	})
-	return s.Sender(j), nil
+func (s ShowMsg) Recver(conn *gtcp.Conn, in *message.VgDw200In) error {
+	//j, _ := json.Marshal(map[string]string{
+	//	"ack": "ok",
+	//	"msg": "I'm Ok, What about you?",
+	//})
+	return nil
 }
 
 type ShowImg struct {
 }
 
-func (s ShowImg) Sender(data []byte) []byte {
-	return message.New().Cmd(0x63).Data(data).Get()
+func (s ShowImg) Sender(conn *gtcp.Conn, data []byte) error {
+	msg := message.New().Cmd(0x63).Data(data).Get()
+	err := tcp.Send(conn, msg)
+	if err != nil {
+		return err
+	}
+	return nil
 }
 
-func (s ShowImg) Recver(in *message.VgDw200In) ([]byte, error) {
+func (s ShowImg) Recver(conn *gtcp.Conn, in *message.VgDw200In) error {
 	if in.Flag != 0 {
-		return nil, errors.New(fmt.Sprintf("更新图片失败, 标识字：%d", in.Flag))
+		return newErr(0x63, in.Flag)
 	}
-	return nil, nil
+	return nil
 }
 
 type InWindow struct {
 }
 
-func (i InWindow) Sender(data []byte) []byte {
-	return message.New().Cmd(0x64).Data(data).Get()
+func (i InWindow) Sender(conn *gtcp.Conn, data []byte) error {
+	msg := message.New().Cmd(0x64).Data(data).Get()
+	err := tcp.Send(conn, msg)
+	if err != nil {
+		return err
+	}
+	return nil
 }
 
-func (i InWindow) Recver(in *message.VgDw200In) ([]byte, error) {
+func (i InWindow) Recver(conn *gtcp.Conn, in *message.VgDw200In) error {
 	if in.Flag != 0 {
-		return nil, errors.New(fmt.Sprintf("进入窗口失败, 标识字：%d", in.Flag))
+		return newErr(0x64, in.Flag)
 	}
-	return nil, nil
+	return nil
 }

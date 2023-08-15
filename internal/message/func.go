@@ -9,10 +9,20 @@ func GetChecksum(data []byte) byte {
 	return checksum
 }
 
-// DataBytesBig 获取uint16的大端序数组byte
-func DataBytesBig(l uint16) [2]byte {
-	// 获取高位字节
-	highByte := byte(l >> 8)
-	lowByte := byte(l)
-	return [2]byte{lowByte, highByte}
+// DataBytesBig16 获取uint16的大端序数组byte
+func DataBytesBig16(l uint16) [2]byte {
+	return [2]byte{
+		byte(l),
+		byte(l >> 8),
+	}
+}
+
+// DataBytesBig32 获取uint32的大端序数组byte
+func DataBytesBig32(l uint32) [4]byte {
+	return [4]byte{
+		byte(l),
+		byte(l >> 8),
+		byte(l >> 16),
+		byte(l >> 24),
+	}
 }

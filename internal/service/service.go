@@ -2,14 +2,15 @@ package service
 
 import (
 	"github.com/gogf/gf/v2/errors/gerror"
+	"github.com/gogf/gf/v2/net/gtcp"
 	"github.com/oldme-git/vgdw200/internal/message"
 )
 
 type SrvInterface interface {
 	// Sender 发送信息
-	Sender(data []byte) []byte
+	Sender(conn *gtcp.Conn, data []byte) error
 	// Recver 接收信息
-	Recver(data *message.VgDw200In) ([]byte, error)
+	Recver(conn *gtcp.Conn, data *message.VgDw200In) error
 }
 
 type Service struct {

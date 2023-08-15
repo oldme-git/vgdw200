@@ -35,7 +35,7 @@ func (v *VgDw200Out) Get() []byte {
 		msg     []byte
 		dataLen = uint16(len(v.data))
 	)
-	v.dataLen = DataBytesBig(dataLen)
+	v.dataLen = DataBytesBig16(dataLen)
 
 	msg = v.cmdHeader[0:2]
 	msg = append(msg, v.cmd)
