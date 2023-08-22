@@ -56,12 +56,12 @@ func main() {
 		s := g.Server()
 		s.BindHandler("/", func(r *ghttp.Request) {
 			//cmd := r.Get("msg").String()
-			//u, _ := srv.Get(0x81)
-			//tcpList.broadcast(u, []byte(unit.FileName))
+			u, _ := srv.Get(0x81)
+			tcpList.broadcast(u, []byte(unit.FileName))
 			//u, _ := srv.Get(0x63)
+			//tcpList.broadcast(u, []byte("bk"))
+			//u, _ := srv.Get(0x29)
 			//tcpList.broadcast(u, []byte{0x04})
-			u, _ := srv.Get(0x29)
-			tcpList.broadcast(u, []byte{0x04})
 		})
 		s.SetPort(8888)
 		s.Run()
@@ -74,7 +74,6 @@ func main() {
 
 		for {
 			data, err := conn.Recv(-1)
-			fmt.Printf("%X", data)
 			if len(data) > 0 {
 				err := tcp.Recv(conn, data)
 				if err != nil {
